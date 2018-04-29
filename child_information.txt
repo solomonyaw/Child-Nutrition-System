@@ -1,0 +1,223 @@
+1. Achilles Troy Tibi;25 mo.;Male;Purok 1;88 cm;12 kg;Normal;Normal
+2. Adonis Gregorio;3 mo.;Male;Purok 5;74 cm;5 kg;Tall;Normal
+3. Adrian Portem;11 mo.;Male;Purok 5;94 cm;12.2 kg;Tall;Overweight
+4. Aira Jane Chicogo;42 mo.;Female;Purok 2;98 cm;18 kg;Normal;Normal
+5. Ajay Satiada;70 mo.;Male;Purok 3;110 cm;18.2 kg;Normal;Normal
+6. Aldrich Rhaider Robrigado;42 mo.;Male;Purok 5;93 cm;13.4 kg;Normal;Normal
+7. Alex John Saunar;34 mo.;Male;Purok 2;84 cm;10 kg;Stunted;Underweight
+8. Alexa Sales;48 mo.;Female;Purok 4;93 cm;14 kg;Stunted;Normal
+9. Alexander Sabio;42 mo.;Male;Purok 3;93 cm;14 kg;Normal;Normal
+10. Alexia Mae Gregorio;56 mo.;Female;Purok 5;99 cm;16 kg;Normal;Normal
+11. Allana Nicole Cabitana;22 mo.;Female;Purok 3;81 cm;10 kg;Normal;Normal
+12. Allen Josh Dacaran;47 mo.;Male;Purok 6;107 cm;19 kg;Normal;Normal
+13. Alliah Janine Velarde;71 mo.;Female;Purok 5;112 cm;18.7 kg;Normal;Normal
+14. Alonica Gregorio;28 mo.;Female;Purok 5;82 cm;8 kg;Stunted;Invalid Weight
+15. Althalea Marjuela Alem;10 mo.;Female;Purok 5;74 cm;10.4 kg;Normal;Normal
+16. Althea Aguilar;62 mo.;Female;Purok 5;104 cm;15.6 kg;Normal;Normal
+17. Althea Kaye Sabaupan;57 mo.;Female;Purok 1;100 cm;20 kg;Normal;Normal
+18. Alvin Jay Fortuno;53 mo.;Male;Purok 1;99 cm;15.1 kg;Normal;Normal
+19. Alyssah Jane Calcogo;5 mo.;Female;Purok 2;62.3 cm;6.1 kg;Normal;Normal
+20. Analiza Sardalla;52 mo.;Female;Purok 5;100 cm;14.2 kg;Normal;Normal
+21. Andrea Candice Velasco;4 mo.;Female;Purok 3;54 cm;7.5 kg;Invalid Height;Normal
+22. Andrei Joshua Gonzales;62 mo.;Male;Purok 1;103 cm;16.7 kg;Normal;Normal
+23. Angel Arisabel Mesina;34 mo.;Female;Purok 2;93 cm;12 kg;Normal;Normal
+24. Angel Precones;13 mo.;Female;Purok 5;100 cm;13.8 kg;Tall;Overweight
+25. Angela Osorio;47 mo.;Female;Purok 6;94 cm;14.3 kg;Normal;Normal
+26. Angelie Krizzel Cabitana;60 mo.;Female;Purok 2;106 cm;15.9 kg;Normal;Normal
+27. Angelie Sañosa;53 mo.;Female;Purok 4;94 cm;17 kg;Stunted;Normal
+28. Ariana Mae Macalalad;44 mo.;Female;Purok 4;3 cm;13 kg;Invalid Height;Normal
+29. Arjil Saminiano Romaraog;69 mo.;Male;Purok 2;109 cm;18 kg;Normal;Normal
+30. Arnulfo Macalalad Jr.;14 mo.;Male;Purok 4;76 cm;8.3 kg;Normal;Normal
+31. Art Ezekiel Almuena;3 mo.;Male;Purok 1;105 cm;16 kg;Tall;Overweight
+32. Ashanty Felyss Salting;61 mo.;Female;Purok 5;106 cm;14.7 kg;Normal;Normal
+33. Astryd Rhyss Muñoz;50 mo.;Female;Purok 3;96 cm;14.1 kg;Normal;Normal
+34. Blessie Burno;27 mo.;Female;Purok 6;87 cm;14 kg;Normal;Overweight
+35. Breana Antonia Tan Quintana;71 mo.;Female;Purok 4;110 cm;18.2 kg;Normal;Normal
+36. Brent Lester Undang;23 mo.;Male;Purok 4;87 cm;13 kg;Normal;Normal
+37. Bryan Palma;12 mo.;Male;Purok 3;62 cm;8 kg;Invalid Height;Normal
+38. Bryanth Angelo Undang;1 mo.;Male;Purok 4;56 cm;4.9 kg;Normal;Normal
+39. Carl Joseph Martinez;39 mo.;Male;Purok 3;97 cm;15 kg;Normal;Normal
+40. Carlo Catampungan;58 mo.;Male;Purok 5;100 cm;14.9 kg;Normal;Normal
+41. Chari Mae Samarista;46 mo.;Female;Purok 1;93.2 cm;13.8 kg;Normal;Normal
+42. Charlene Pulante;67 mo.;Female;Purok 5;109 cm;17.5 kg;Normal;Normal
+43. Cheska Portem;60 mo.;Female;Purok 5;101 cm;15.8 kg;Normal;Normal
+44. Christopher Abariño;57 mo.;Male;Purok 5;99.8 cm;14.9 kg;Normal;Normal
+45. Czarina Jillian Ortiz;67 mo.;Female;Purok 3;107 cm;23.6 kg;Normal;Normal
+46. Damiel Reotiquio;62 mo.;Male;Purok 1;103 cm;16.7 kg;Normal;Normal
+47. Daniel James Balete;28 mo.;Male;Purok 6;89 cm;12.1 kg;Normal;Normal
+48. Daniel Jorg Nocete;62 mo.;Male;Purok 4;103 cm;14.8 kg;Normal;Normal
+49. Daniel Ngo;37 mo.;Male;Purok 2;93 cm;12 kg;Normal;Normal
+50. Dave Nathaniel Cortez;68 mo.;Male;Purok 3;107 cm;18 kg;Normal;Normal
+51. David John Salting;39 mo.;Male;Purok 4;94 cm;13 kg;Normal;Normal
+52. Dheon Joseph Yucob Sael;55 mo.;Male;Purok 5;100.5 cm;14.3 kg;Normal;Normal
+53. Diane Rose Bracero;22 mo.;Female;Purok 6;83 cm;14 kg;Normal;Normal
+54. Eleazah Bihag;2 mo.;Male;Purok 6;90 cm;12.8 kg;Tall;Overweight
+55. Ella Mae Olelay;36 mo.;Female;Purok 5;110 cm;17.8 kg;Tall;Normal
+56. Erroz Nate Borja;7 mo.;Male;Purok 5;66 cm;8.3 kg;Normal;Normal
+57. Ethan Claud Brutas;24 mo.;Male;Purok 5;81 cm;10 kg;;Invalid Weight
+58. Ethan Clyde Brutas;8 mo.;Male;Purok 1;69 cm;10 kg;Normal;Normal
+59. Eugene Arroyo;63 mo.;Male;Purok 5;104.8 cm;149 kg;Normal;Overweight
+60. Fleurdeuz Borja Hilutin;68 mo.;Female;Purok 5;111 cm;16.2 kg;Normal;Normal
+61. Floyd Harley Natividad;61 mo.;Male;Purok 5;103.3 cm;15.3 kg;Normal;Normal
+62. Franhein Kristin Tacorda;58 mo.;Female;Purok 2;110 cm;16.3 kg;Normal;Normal
+63. Frijolito Remoral;56 mo.;Male;Purok 3;108 cm;16 kg;Normal;Normal
+64. Frinces Gwen Calpe;38 mo.;Female;Purok 5;105 cm;16 kg;Tall;Normal
+65. Frinces Gwen Senadan;65 mo.;Female;Purok 6;106 cm;16.2 kg;Normal;Normal
+66. Gabriel Leandro Enrico Samorin;9 mo.;Male;Purok 1;69 cm;9.3 kg;Normal;Normal
+67. Gabriel Saberola;30 mo.;Male;Purok 3;90 cm;12.8 kg;Normal;Normal
+68. Genesis Ranara;17 mo.;Male;Purok 6;80.5 cm;14 kg;Normal;Overweight
+69. Gian Judo Panen;46 mo.;Male;Purok 5;108 cm;30.5 kg;Normal;Overweight
+70. Glena Angela Gregorio;7 mo.;Female;Purok 5;66.5 cm;8.4 kg;Normal;Normal
+71. Glexily Belmonte;47 mo.;Female;Purok 2;94.6 cm;15 kg;Normal;Normal
+72. Hannah Clarisse Sallao;43 mo.;Female;Purok 5;96 cm;13.2 kg;Normal;Normal
+73. Hansen Jel Salceda Marcus;0 mo.;Male;Purok 6;99.8 cm;14.5 kg;Tall;Overweight
+74. Hansen Jell Sabio Marcus;25 mo.;Male;Purok 6;107 cm;14.7 kg;Tall;Normal
+75. Heiress Romaraog;36 mo.;Female;Purok 2;99 cm;13 kg;Normal;Normal
+76. Hercules Remoral Jr.;4 mo.;Male;Purok 3;64.6 cm;7.2 kg;Normal;Normal
+77. Hershey Jenel Saquido;47 mo.;Female;Purok 4;95 cm;14 kg;Normal;Normal
+78. Ian Nathaniel Gregorio;49 mo.;Male;Purok 5;97.9 cm;13.2 kg;Normal;Normal
+79. Irish Angel Indanon;19 mo.;Female;Purok 2;83 cm;9 kg;Normal;Normal
+80. Ishie Mariz Saquido;34 mo.;Female;Purok 4;91 cm;11 kg;Normal;Normal
+81. Ivan Layderos;60 mo.;Male;Purok 3;100.6 cm;14.8 kg;Stunted;Normal
+82. Jacob Cater Masbate;46 mo.;Male;Purok 1;95 cm;14 kg;Normal;Normal
+83. Jacquelene Jane Saminiano;4 mo.;Female;Purok 2;55.7 cm;5.7 kg;Stunted;Normal
+84. Jaime Andres Gumata;46 mo.;Male;Purok 4;102 cm;14 kg;Normal;Normal
+85. Jaime Mikaela Gumata;60 mo.;Female;Purok 4;102 cm;14.1 kg;Normal;Normal
+86. Jamaela Rain Velarde;58 mo.;Female;Purok 1;101 cm;14.3 kg;Normal;Normal
+87. Jamaila Joy Mariscotes;49 mo.;Female;Purok 5;92.7 cm;13 kg;Stunted;Normal
+88. James Andrei Sabao;69 mo.;Male;Purok 4;109 cm;17.1 kg;Normal;Normal
+89. James Andrew Castillet;22 mo.;Male;Purok 3;85 cm;10 kg;Normal;Normal
+90. James Earl Davales;25 mo.;Male;Purok 5;96.9 cm;13.5 kg;Tall;Normal
+91. James Sañosa;18 mo.;Male;Purok 4;86 cm;12 kg;Normal;Normal
+92. Jan Francis Antoni Martinez;12 mo.;Male;Purok 2;70 cm;10.2 kg;Stunted;Normal
+93. Jan Franco Bela;48 mo.;Male;Purok 3;108 cm;20 kg;Normal;Normal
+94. Jan Jericho Tria;27 mo.;Male;Purok 3;83 cm;11 kg;Stunted;Normal
+95. Jared Jesu Basquiñez Tabinas;50 mo.;Male;Purok 3;93.3 cm;14 kg;Stunted;Normal
+96. Jasmin Acebo;31 mo.;Female;Purok 5;95 cm;12 kg;Normal;Normal
+97. Jayson Lester Santayana;50 mo.;Male;Purok 2;94.2 cm;13.2 kg;Stunted;Normal
+98. Jersey Navine Salon;52 mo.;Female;Purok 3;93 cm;13 kg;Stunted;Normal
+99. Jervy Seneta;15 mo.;Male;Purok 3;84 cm;10 kg;Normal;Normal
+100. Jess Ollet;16 mo.;Male;Purok 6;81 cm;12 kg;Normal;Normal
+101. Jessica Encisa;38 mo.;Female;Purok 4;88 cm;10 kg;Stunted;Underweight
+102. Jessie Boy Saquido;7 mo.;Male;Purok 4;67 cm;7.2 kg;Normal;Normal
+103. Jewel Santayana;65 mo.;Female;Purok 3;106 cm;16.9 kg;Normal;Normal
+104. Jewel Sy;43 mo.;Female;Purok 3;105 cm;16.8 kg;Normal;Normal
+105. Joachi Angelo Pinto;16 mo.;Male;Purok 5;81.3 cm;12 kg;Normal;Normal
+106. Joachim Mitchael Gatchalian;52 mo.;Male;Purok 4;98.3 cm;13.9 kg;Normal;Normal
+107. John Carl Bombuhay;12 mo.;Male;Purok 4;70.2 cm;8.9 kg;;Normal
+108. John Carlo Belda;67 mo.;Male;Purok 2;104.9 cm;16.9 kg;Normal;Normal
+109. John Carlo Gregorio;49 mo.;Male;Purok 5;96.4 cm;13.9 kg;Normal;Normal
+110. John Jeremy Tria;41 mo.;Male;Purok 3;94.3 cm;14 kg;Normal;Normal
+111. John Lester Santayana;38 mo.;Male;Purok 2;93.4 cm;12.3 kg;Normal;Normal
+112. John Samper;42 mo.;Male;Purok 5;95 cm;13 kg;Normal;Normal
+113. John Sean Sandigio;12 mo.;Male;Purok 6;68 cm;9 kg;Invalid Height;Normal
+114. Jomar Arbo;68 mo.;Male;Purok 4;107 cm;17.9 kg;Normal;Normal
+115. Joreen Sabaybay;30 mo.;Female;Purok 1;95 cm;16 kg;Normal;Normal
+116. Joy Ann Remoral;33 mo.;Female;Purok 3;89 cm;13.2 kg;Normal;Normal
+117. Juan Miguel Bayrante;14 mo.;Male;Purok 2;84 cm;8.1 kg;Tall;Normal
+118. Julia Ann Sarte;60 mo.;Female;Purok 3;102 cm;20.1 kg;Normal;Normal
+119. Julie Andrea Velitario;67 mo.;Female;Purok 2;109 cm;16.3 kg;Normal;Normal
+120. Julie Mae Mariscotes;15 mo.;Female;Purok 4;73 cm;7 kg;Normal;Underweight
+121. Justine Castillet Arnante;2 mo.;Male;Purok 3;61 cm;6.2 kg;Normal;Overweight
+122. Kamil Pecaña;71 mo.;Female;Purok 1;111 cm;17.9 kg;Normal;Normal
+123. Karlyle Tabinas;20 mo.;Male;Purok 3;79 cm;11 kg;Invalid Height;Normal
+124. Kendra Ashie Sarte;18 mo.;Female;Purok 4;85 cm;11 kg;Normal;Normal
+125. Kenneth B. Sallao;63 mo.;Male;Purok 3;104 cm;16.2 kg;Normal;Normal
+126. Kenneth Barredo Sallao;63 mo.;Male;Purok 5;106 cm;15.4 kg;Normal;Normal
+127. Kent Lawrence Sandro;61 mo.;Male;Purok 6;104 cm;15.8 kg;Normal;Normal
+128. Kent Zion Sevilla;17 mo.;Male;Purok 3;79 cm;12.3 kg;Normal;Normal
+129. Kert Lexter Sandro;13 mo.;Male;Purok 6;99.9 cm;14.3 kg;Tall;Overweight
+130. Kian Jairus Saunar;63 mo.;Male;Purok 2;105 cm;15.9 kg;Normal;Normal
+131. Kiara Capuz;60 mo.;Female;Purok 5;97 cm;14 kg;Stunted;Normal
+132. Kim Cheska Saquido;6 mo.;Female;Purok 4;62.3 cm;8.7 kg;Normal;Normal
+133. Kirby Roy Sañosa;17 mo.;Male;Purok 3;82 cm;12 kg;Normal;Normal
+134. Kizzia Precioso;37 mo.;Female;Purok 4;89 cm;12 kg;Normal;Normal
+135. Kris Eduard Salceda Chavez;58 mo.;Male;Purok 4;101.9 cm;14.3 kg;Normal;Normal
+136. Kris Ibias;27 mo.;Male;Purok 6;94 cm;16 kg;Normal;Normal
+137. Kris Lawrence A. Rosales;71 mo.;Male;Purok 5;113.9 cm;18.5 kg;Normal;Normal
+138. Kristel Ann Monterey;31 mo.;Female;Purok 2;98 cm;13 kg;Normal;Normal
+139. Kristin Joy Saberola;25 mo.;Female;Purok 3;94 cm;13.8 kg;Tall;Normal
+140. Krizzia Mae Refelino;23 mo.;Female;Purok 3;81 cm;10 kg;Normal;Normal
+141. Kyle Francis Chavez;16 mo.;Male;Purok 5;83 cm;12.5 kg;Normal;Normal
+142. Laila Nadine Asaytuno;5 mo.;Female;Purok 2;60.2 cm;6 kg;Normal;Normal
+143. Lance Ezekiel Gonzales;18 mo.;Male;Purok 1;85 cm;11.5 kg;Normal;Normal
+144. Lee Ann Abila;12 mo.;Female;Purok 2;81.2 cm;7.9 kg;Tall;Normal
+145. Lee Chloe Baria;6 mo.;Female;Purok 2;68.2 cm;8.5 kg;Normal;Normal
+146. Lee Ian Baria;31 mo.;Male;Purok 2;83 cm;11.2 kg;Stunted;Normal
+147. Lee Nardth Leo Baria;67 mo.;Male;Purok 2;106 cm;17.3 kg;Normal;Normal
+148. Lianne Joy Labid;33 mo.;Female;Purok 6;95 cm;14 kg;Normal;Normal
+149. Lots Rod Aquino;40 mo.;Male;Purok 1;93.6 cm;12 kg;Normal;Normal
+150. Luke Sanchez;17 mo.;Male;Purok 2;95.9 cm;14.1 kg;Tall;Overweight
+151. Lymnyre Lev Portem;4 mo.;Female;Purok 5;64.1 cm;8.5 kg;Normal;Overweight
+152. Lyn Erich Gorobia;67 mo.;Female;Purok 6;105 cm;24.1 kg;Normal;Normal
+153. Marcus Dylan Sarte Lakaran;52 mo.;Male;Purok 3;103.4 cm;13.6 kg;Normal;Normal
+154. Maria Antoinete Saminiano;44 mo.;Female;Purok 2;99 cm;13 kg;Normal;Normal
+155. Maria Antoinette Remoral;57 mo.;Female;Purok 3;107 cm;16 kg;Normal;Normal
+156. Maria Cristina Tolosa Tango;66 mo.;Female;Purok 3;106 cm;22.5 kg;Normal;Normal
+157. Maria Desiree Batrante;65 mo.;Female;Purok 2;106 cm;16.2 kg;Normal;Normal
+158. Maria Franchesca Sardalla;66 mo.;Female;Purok 3;106 cm;16.2 kg;Normal;Normal
+159. Maria Franz Jasmin Encisa;27 mo.;Female;Purok 4;90 cm;11 kg;Tall;Normal
+160. Maria Lourdes Callope;0 mo.;Female;Purok 5;56 cm;4.6 kg;Tall;Overweight
+161. Marjorie Espinas;43 mo.;Female;Purok 4;83 cm;11 kg;Invalid Height;Underweight
+162. Mark Agustin Llanto;53 mo.;Male;Purok 6;98.3 cm;13.7 kg;Normal;Normal
+163. Mark Andrei Alday;50 mo.;Male;Purok 1;98 cm;14.9 kg;Normal;Normal
+164. Mark Andrei Ras;18 mo.;Male;Purok 4;83 cm;11 kg;Normal;Normal
+165. Mark Daniel Orbase;32 mo.;Male;Purok 1;83 cm;13.8 kg;;Normal
+166. Mark Iyan Dwayne Orbase;53 mo.;Male;Purok 1;98.9 cm;13.9 kg;Normal;Normal
+167. Mark Rome S. Sabio;64 mo.;Male;Purok 3;104 cm;17.3 kg;Normal;Normal
+168. Mark Terence Agustin;58 mo.;Male;Purok 6;102.1 cm;14.2 kg;Normal;Normal
+169. Martina Geisha Estrella;16 mo.;Male;Purok 3;79 cm;8.8 kg;Normal;Normal
+170. Mary Grace Reyes;13 mo.;Female;Purok 4;73 cm;7.5 kg;Normal;Normal
+171. Mary Katelyn Siguenza;67 mo.;Female;Purok 3;100 cm;18.2 kg;Stunted;Normal
+172. Maxine Alyana Sabater;53 mo.;Female;Purok 1;93 cm;13 kg;Stunted;Normal
+173. Miel Osma;70 mo.;Male;Purok 1;115 cm;19.4 kg;Normal;Normal
+174. Naniel Jorg Nocete;23 mo.;Male;Purok 4;84 cm;12 kg;Normal;Normal
+175. Nathan Andrei Villanueva;62 mo.;Male;Purok 2;105 cm;14.9 kg;Normal;Normal
+176. Nathaniel Baloloy;9 mo.;Male;Purok 4;105 cm;19.1 kg;Tall;Overweight
+177. Nathaniel Macalalad;13 mo.;Male;Purok 4;72.5 cm;10.1 kg;Normal;Normal
+178. Niel Caleb Velasco;5 mo.;Male;Purok 6;67 cm;7.5 kg;Normal;Normal
+179. Pauleen Anon;6 mo.;Female;Purok 2;74.1 cm;8.3 kg;Tall;Normal
+180. Phil Allen Delos Reyes;71 mo.;Male;Purok 3;114 cm;18.3 kg;Normal;Normal
+181. Prince Efren Casimiro;11 mo.;Male;Purok 6;80.5 cm;8.2 kg;Tall;Normal
+182. Prince Niño Jay Sabaybay;42 mo.;Male;Purok 5;97 cm;15 kg;Normal;Normal
+183. Princess Patriarca;43 mo.;Female;Purok 6;93 cm;13 kg;Normal;Normal
+184. Rain Alexander Aguilar;20 mo.;Male;Purok 5;85 cm;13 kg;Normal;Normal
+185. Rain Macalalad;42 mo.;Male;Purok 4;89 cm;14 kg;Stunted;Normal
+186. Ram Lawrence Sabio Raymundo;18 mo.;Male;Purok 3;110.1 cm;37 kg;Tall;Overweight
+187. Ram Vincent Hidalgo;12 mo.;Male;Purok 1;92 cm;13.4 kg;Tall;Overweight
+188. Raven Encisa;66 mo.;Male;Purok 2;106 cm;15.9 kg;Normal;Normal
+189. Ray Shan Rempes;13 mo.;Male;Purok 3;86 cm;11.2 kg;Tall;Normal
+190. Raymond Sekreto Pacamongan;58 mo.;Male;Purok 3;99.4 cm;14.3 kg;Stunted;Normal
+191. Reachil Mae Jaime;60 mo.;Female;Purok 5;100.3 cm;14 kg;Normal;Normal
+192. Reesablake Sampal;40 mo.;Female;Purok 6;94 cm;12 kg;Normal;Normal
+193. Reiana Mae delos Angeles;40 mo.;Female;Purok 3;98 cm;13 kg;Normal;Normal
+194. Renato Ibarondo Jr.;58 mo.;Male;Purok 3;111 cm;18 kg;Normal;Normal
+195. Rheena Gregorio;61 mo.;Female;Purok 5;104 cm;13.2 kg;Normal;Underweight
+196. Ritchelle Ann Yanson;60 mo.;Female;Purok 4;101.3 cm;15.8 kg;Normal;Normal
+197. Rowena Rhizza Remoral;70 mo.;Female;Purok 3;110 cm;18.9 kg;Normal;Normal
+198. Sadjid Abdula Kearan Jr.;13 mo.;Male;Purok 6;76 cm;9 kg;Normal;Normal
+199. Sam Anthony Capacio;55 mo.;Male;Purok 6;101.6 cm;14.6 kg;Normal;Normal
+200. Samantha Noelle Corpuz;62 mo.;Female;Purok 6;105 cm;16.9 kg;Normal;Normal
+201. Shara Mae Rivero;64 mo.;Female;Purok 2;105 cm;15.3 kg;Normal;Normal
+202. Sofia Salalima;64 mo.;Female;Purok 5;104 cm;16.1 kg;Normal;Normal
+203. Stephen Luis Reblado;47 mo.;Male;Purok 2;104 cm;17 kg;Normal;Normal
+204. Steven Andrei Mora;63 mo.;Male;Purok 6;103 cm;15.8 kg;Normal;Normal
+205. Sunshine Sabio;16 mo.;Female;Purok 3;75 cm;8 kg;Normal;Normal
+206. Tabitha Brielle Nieves;14 mo.;Female;Purok 3;76 cm;8.7 kg;Normal;Normal
+207. Timothy Jan Gabriel  Manuel;61 mo.;Male;Purok 3;102.6 cm;15.2 kg;Normal;Normal
+208. Tomie Saminiano;23 mo.;Female;Purok 2;84 cm;11.5 kg;Normal;Normal
+209. Tristan Encisa;0 mo.;Male;Purok 4;56 cm;4 kg;Tall;Normal
+210. Viann Anthony Floranza;33 mo.;Male;Purok 2;81 cm;11 kg;Tall;Normal
+211. Vince Jake David;46 mo.;Male;Purok 5;96 cm;12 kg;Normal;Invalid Weight
+212. Vince Matthew Basquinez;10 mo.;Male;Purok 5;69.9 cm;8.5 kg;Normal;Normal
+213. Vince Matthew Sasa Montales;57 mo.;Male;Purok 5;102.3 cm;14.7 kg;Normal;Normal
+214. Vincent Ante Salvante;60 mo.;Male;Purok 6;103.2 cm;15.1 kg;Normal;Normal
+215. Vincent Slvante;44 mo.;Male;Purok 6;104.7 cm;16.9 kg;Normal;Normal
+216. Warren Fernandez;63 mo.;Male;Purok 5;103 cm;15.9 kg;Normal;Normal
+217. Xavierre Gregorio Custodio;62 mo.;Female;Purok 5;107 cm;15.4 kg;Normal;Normal
+218. Yohan Sebastian Garcia;51 mo.;Male;Purok 5;96.6 cm;14.6 kg;Normal;Invalid Weight
+219. Zcion Pecana;70 mo.;Female;Purok 1;112 cm;18.5 kg;Normal;Normal
+220. Zean Lhuwville Rojas;26 mo.;Male;Purok 2;89 cm;11 kg;Normal;Normal
+221. Zian Gabriel Olmeda;31 mo.;Male;Purok 1;86 cm;12 kg;Normal;Normal
+222. Zian Palangpngan;24 mo.;Male;Purok 4;94 cm;15 kg;Normal;Normal
+223. Zian Xander Vinuya;16 mo.;Male;Purok 4;79 cm;11 kg;Normal;Normal
